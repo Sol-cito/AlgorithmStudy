@@ -40,6 +40,8 @@ heights			return
 [3] 번째 탑이 쏜 신호는 2번째 탑이 수신합니다.
 [6] 번째 탑이 쏜 신호는 5번째 탑이 수신합니다.
 [7] 번째 탑이 쏜 신호는 6번째 탑이 수신합니다.
+
+출처 : https://programmers.co.kr/learn/courses/30/lessons/42588
 ```
 
 
