@@ -1,4 +1,4 @@
-## 프로그래머스 카카오 Winter Coding- 종이접기 (Level 3)
+## 프로그래머스 카카오 Winter Coding- 종이접기 (Level 3) 
 
 ###### 문제 설명
 
