@@ -1,12 +1,4 @@
-## 프로그래머스 가장 긴 팰린드롬 (Level 3)
-
-- 숫자 게임
-
-- darklight
-
-  sublimevimemacs
-
-  Java 
+## 프로그래머스 숫자게임 - 2018 Summer winter 코딩 (Level 3)
 
 ###### 문제 설명
 
