@@ -1,4 +1,4 @@
-## 프로그래머스 배달 - 2018 Summer/Winter Coding
+## 프로그래머스 괄호변환 - 2020 Summer/Winter Coding
 
 ### 용어의 정의
 
