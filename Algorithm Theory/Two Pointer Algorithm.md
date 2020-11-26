@@ -20,7 +20,7 @@
 
 가장 기본적인 유형은 백준의 **2003번 수들의 합2**이다 (https://www.acmicpc.net/problem/2003).
 
-Leetcode에서는 다양한 유형이 있는데, **3sum** 문제(https://leetcode.com/problems/3sum/)나,
+Leetcode에서는 다양한 유형이 있는데, **3sum** 문제(https://leetcode.com/problems/3sum/) 나,
 
 **Longest Substring Without Repeating Characters** (https://leetcode.com/problems/longest-substring-without-repeating-characters/) 가 있다.
 
