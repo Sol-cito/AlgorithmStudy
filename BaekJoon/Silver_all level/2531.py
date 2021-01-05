@@ -20,3 +20,4 @@ for p1 in range(len(arr) - k):
     if chobap[arr[p1] - 1] == 0:
         res -= 1
 print(ans)
+
